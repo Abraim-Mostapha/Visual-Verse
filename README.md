@@ -9,3 +9,8 @@
   <li>MongoDB (v4 or above)</li>
   <li>npm or yarn package manager</li>
 </ul>
+<h2>Commands</h2>
+
+<code>npm install</code>
+<code>npm run dev</code> 
+<code>npm start</code>
